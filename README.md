@@ -1,5 +1,7 @@
 ![screenshot](screenshot.png)
-Smple game done as a university project.
+
+A smple game done as a university project.
+
 Features:
 ---
 * Resizable tiles
